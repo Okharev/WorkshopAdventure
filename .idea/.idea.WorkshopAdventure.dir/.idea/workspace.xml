@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a27676a9-19da-4a22-a685-f542cdac8e3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Systems/Dialogue/DialogueGraph.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure.Target.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueBlackboard.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueBlackboard.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueGraph.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueGraph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueLogic.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueLogic.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueNode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueNode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/WorkshopAdventure.Build.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/WorkshopAdventure.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/WorkshopAdventure.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventureEditor.Target.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventureEditor/WorkshopAdventureEditor.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkshopAdventure.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/WorkshopAdventure.uproject" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Okharev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Okharev/WorkshopAdventure.git",
+    "accountId": "83739ace-c34f-457d-b208-1c94ee4f883c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="38WB3eNX9DKxe82zvMvkU3KHUqX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a27676a9-19da-4a22-a685-f542cdac8e3b" name="Changes" comment="" />
+      <created>1768905249895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768905249895</updated>
+      <workItem from="1768905250969" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+</project>
