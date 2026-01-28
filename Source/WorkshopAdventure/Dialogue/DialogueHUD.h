@@ -4,7 +4,7 @@
 #include "Blueprint/UserWidget.h"
 #include "Components/TextBlock.h"
 #include "Components/PanelWidget.h" // Pour le conteneur (ScrollBox ou VerticalBox)
-#include "Dialogue/DialogueComponent.h"
+#include "DialogueComponent.h"
 #include "UDialogueChoiceWidget.h"
 #include "DialogueHUD.generated.h"
 

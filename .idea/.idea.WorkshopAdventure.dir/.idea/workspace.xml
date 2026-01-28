@@ -2,27 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a27676a9-19da-4a22-a685-f542cdac8e3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Systems/Dialogue/DialogueGraph.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure.Target.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueBlackboard.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueBlackboard.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueGraph.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueGraph.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueLogic.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueLogic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueNode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueNode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/WorkshopAdventure.Build.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/WorkshopAdventure.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/WorkshopAdventure.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventureEditor.Target.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventureEditor/WorkshopAdventureEditor.Build.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Dialogue/WBP_DialogueChoice.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Dialogue/WBP_DialogueHUD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/BPA_JournalSystem.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/DT_JournalData.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/IA_ToggleJournalHUD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/S_JournalFact.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/W_JournalPage.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/W_JournalTextRow.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/MiniGame/M_Joker.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/MiniGame/M_Knight.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/MiniGame/M_Servant.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/MiniGame/M_Tower.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/MiniGame/WBP_GameHUD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/OD/XN7YVHNC2CMRDOIHCO1XJU.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/Q5/9R4PZZNNE52JN93GA4XZ9B.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/P6/Q52WZAC1PMWCEAIF3FYHNR.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/TopDown/Lvl_TopDown/3/HS/3HU3JHGSMPI6WW6Y98K65O.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/TopDown/Lvl_TopDown/D/RH/4IVNT523CHN8KLGIY31AZ2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/CardActor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/CardActor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/CardGameTypes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/CardGameTypes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Systems/Dialogue/NPC_Colleague.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Systems/Dialogue/NPC_Colleague.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Input/IMC_Default.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Input/IMC_Default.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Lvl_TopDown/1/AD/5AME24HPD7CI2AZR6L6SD6.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Lvl_TopDown/E/VV/2C6QWDWSQ0Q1X3Y207SHDN.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/VL/HNLGQ60Z2K4LTOS8WA88KD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/8B/SVC85N33HI6CTDUY7VNV60.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/WY/QUDKBK8LEY0TURQOKN61J4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueBlackboard.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueBlackboard.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueLogic.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueLogic.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/DialogueHUD.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueHUD.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/DialogueHUD.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueHUD.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/UDialogueChoiceWidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/UDialogueChoiceWidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/UDialogueChoiceWidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/UDialogueChoiceWidget.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WorkshopAdventure.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/WorkshopAdventure.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,21 +54,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Okharev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Okharev&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Okharev/WorkshopAdventure.git",
-    "accountId": "83739ace-c34f-457d-b208-1c94ee4f883c"
+    "accountId": "09fc8d12-fb13-46ba-b62d-1f1087c4dda1"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="38WB3eNX9DKxe82zvMvkU3KHUqX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,9 +76,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="TaskManager">
@@ -68,8 +93,12 @@
       <option name="presentableId" value="Default" />
       <updated>1768905249895</updated>
       <workItem from="1768905250969" duration="5000" />
+      <workItem from="1769623401899" duration="5000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
 </project>

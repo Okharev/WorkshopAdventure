@@ -5,7 +5,7 @@
 #include "DialogueBlackboard.generated.h"
 
 /**
- * Persiste l'état du dialogue à travers les niveaux.
+ * Persiste l'état du dialogue à tra	vers les niveaux.
  */
 UCLASS()
 class WORKSHOPADVENTURE_API UDialogueBlackboard : public UGameInstanceSubsystem

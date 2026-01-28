@@ -5,11 +5,10 @@ void UDialogueHUD::	InitializeDialogue(UDialogueComponent* Comp)
 	if (!Comp) return;
 	LinkedComponent = Comp;
 
-	// Tes bindings existants...
 	Comp->OnDialogueUpdated.AddDynamic(this, &UDialogueHUD::OnDialogueUpdated);
 	Comp->OnDialogueEnded.AddDynamic(this, &UDialogueHUD::OnDialogueEnded);
 
-	// --- NOUVEAU : Binding du bouton Quitter ---
+	// Binding du bouton Quitter ---
 	if (QuitButton)
 	{
 		// On nettoie d'abord au cas où (bonne pratique)
@@ -23,6 +22,7 @@ void UDialogueHUD::	InitializeDialogue(UDialogueComponent* Comp)
 		FInputModeUIOnly InputMode;
 		InputMode.SetWidgetToFocus(TakeWidget());
 		PC->SetInputMode(InputMode);
+	
 		PC->bShowMouseCursor = true;
 	}
 }
@@ -45,9 +45,8 @@ void UDialogueHUD::OnDialogueUpdated(FText Speaker, FText Text, const TArray<FDi
 		for (int32 i = 0; i < Choices.Num(); i++)
 		{
             // CreateWidget est l'équivalent C++ du nœud BP "Create Widget"
-			UUDialogueChoiceWidget* NewBtn = CreateWidget<UUDialogueChoiceWidget>(this, ChoiceWidgetClass);
-			
-			if (NewBtn)
+
+            if (UUDialogueChoiceWidget* NewBtn = CreateWidget<UUDialogueChoiceWidget>(this, ChoiceWidgetClass))
 			{
 				NewBtn->Setup(i, Choices[i].ChoiceText, LinkedComponent.Get());
 				ChoicesContainer->AddChild(NewBtn);

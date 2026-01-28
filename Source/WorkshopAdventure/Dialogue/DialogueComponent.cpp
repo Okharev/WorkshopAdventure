@@ -35,6 +35,12 @@ void UDialogueComponent::StartDialogue(UDialogueGraph* NewGraph)
 void UDialogueComponent::SetCurrentNode(UDialogueNode* NewNode)
 {
 	CurrentNode = NewNode;
+	
+	if (CurrentNode) {
+		UE_LOG(LogTemp, Warning, TEXT("Dialogue Started: %s"), *CurrentNode->DialogueText.ToString());
+	} else {
+		UE_LOG(LogTemp, Error, TEXT("CurrentNode is NULL!"));
+	}
 
 	if (!CurrentNode)
 	{
@@ -46,7 +52,7 @@ void UDialogueComponent::SetCurrentNode(UDialogueNode* NewNode)
 	}
 
 	// 1. Filtrer les choix disponibles
-	TArray<FDialogueChoice> ValidChoices = GetValidChoices(CurrentNode);
+	const TArray<FDialogueChoice> ValidChoices = GetValidChoices(CurrentNode);
 
 	// 2. Gestion de l'Auto-Router (Nœud de redirection sans UI)
 	if (CurrentNode->bIsAutoRouter && ValidChoices.Num() > 0)
@@ -82,10 +88,9 @@ void UDialogueComponent::SelectChoice(int32 ChoiceIndex)
 	const FDialogueChoice& SelectedChoice = ValidChoices[ChoiceIndex];
 
 	// --- Exécution des Événements ---
-	UGameInstance* GameInstance = UGameplayStatics::GetGameInstance(this);
-	UDialogueBlackboard* Blackboard = GameInstance ? GameInstance->GetSubsystem<UDialogueBlackboard>() : nullptr;
+	const UGameInstance* GameInstance = UGameplayStatics::GetGameInstance(this);
 
-	if (Blackboard)
+	if (UDialogueBlackboard* Blackboard = GameInstance ? GameInstance->GetSubsystem<UDialogueBlackboard>() : nullptr)
 	{
 		for (UDialogueEvent* Event : SelectedChoice.Events)
 		{
@@ -113,7 +118,7 @@ TArray<FDialogueChoice> UDialogueComponent::GetValidChoices(UDialogueNode* Node)
 	TArray<FDialogueChoice> FilteredChoices;
 	if (!Node) return FilteredChoices;
 
-	UGameInstance* GameInstance = UGameplayStatics::GetGameInstance(this);
+	const UGameInstance* GameInstance = UGameplayStatics::GetGameInstance(this);
 	UDialogueBlackboard* Blackboard = GameInstance ? GameInstance->GetSubsystem<UDialogueBlackboard>() : nullptr;
 
 	for (const FDialogueChoice& Choice : Node->Choices)
@@ -147,7 +152,7 @@ void UDialogueComponent::Debug_DisplayCurrentNode(const FText& Speaker, const FT
 	//	
 	// 
 	// 
-	FString Header = FString::Printf(TEXT("SPEAKING: %s"), *Speaker.ToString());
+	const FString Header = FString::Printf(TEXT("SPEAKING: %s"), *Speaker.ToString());
 	GEngine->AddOnScreenDebugMessage(1, 100.f, FColor::Green, Header);
 	
 	// 2. Afficher le texte (Blanc)

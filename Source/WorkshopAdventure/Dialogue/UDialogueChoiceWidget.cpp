@@ -2,12 +2,11 @@
 
 
 #include "UDialogueChoiceWidget.h"
-
 #include "Components/Button.h"
 #include "Components/TextBlock.h"
-#include "Dialogue/DialogueComponent.h"
+#include "DialogueComponent.h"
 
-void UUDialogueChoiceWidget::Setup(int32 Index, FText Text, UDialogueComponent* Comp)
+void UUDialogueChoiceWidget::Setup(const int32 Index, const FText& Text, UDialogueComponent* Comp)
 {
 	ChoiceIndex = Index;
 	DialogueComponentRef = Comp;
