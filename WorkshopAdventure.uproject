@@ -3,6 +3,17 @@
 	"EngineAssociation": "5.7",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "WorkshopAdventure",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG",
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
