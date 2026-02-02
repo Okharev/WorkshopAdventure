@@ -1,6 +1,8 @@
 #pragma once
 
 #include "DialogueCondition.h"
+#include "Engine/DataAsset.h"
+#include "Internationalization/Text.h"
 #include "DialogueAsset.generated.h"
 
 // Enum to distinguish speakers
