@@ -42,6 +42,14 @@ public:
     UPROPERTY(BlueprintAssignable, Category = "Dialogue")
     FOnDialogueSegmentFinished OnDialogueFinished;
 
+    	
+    UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Dialogue Identity")
+    FText NPCName;
+
+    // Le portrait du PNJ
+    UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Dialogue Identity")
+    UTexture2D* NPCImage;
+    
     // Helper to store who we are talking to
     UPROPERTY(BlueprintReadWrite, Category = "Dialogue")
     APlayerController* CachedPlayerController;
