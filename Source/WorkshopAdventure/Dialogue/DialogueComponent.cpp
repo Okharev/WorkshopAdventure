@@ -26,14 +26,11 @@ void UDialogueComponent::TickComponent(float DeltaTime, ELevelTick TickType, FAc
 void UDialogueComponent::StartDialogue(APlayerController* Player)
 {
     
-    UE_LOG(LogTemp, Log, TEXT("1"));
+
     if (!DialogueAsset) return;
-    UE_LOG(LogTemp, Log, TEXT("2"));
     CachedPlayerController = Player;
 
-    UE_LOG(LogTemp, Log, TEXT("3"));
     if (!DialogueAsset->Segments.IsValidIndex(CurrentSegmentIndex)) return;
-    UE_LOG(LogTemp, Log, TEXT("4"));
 
     FDialogueSegment& Segment = DialogueAsset->Segments[CurrentSegmentIndex];
 
@@ -44,24 +41,20 @@ void UDialogueComponent::StartDialogue(APlayerController* Player)
         // Note: Assure-toi d'utiliser ta version avec "bNegate" si tu l'as ajoutée
         if (Cond && !Cond->IsMet(Player, GetOwner())) 
         {
-            UE_LOG(LogTemp, Log, TEXT("5"));
             bConditionsMet = false;
             break; 
         }
     }
 
-    UE_LOG(LogTemp, Log, TEXT("6"));
     // --- NOUVELLE LOGIQUE ---
     if (bConditionsMet)
     {
-        UE_LOG(LogTemp, Log, TEXT("7"));
         // Cas : SUCCÈS (J'ai la bière)
         bInFailureState = false;
         OnDialogueRequested.Broadcast(Segment.Lines, this);
     }
     else
     {
-        UE_LOG(LogTemp, Log, TEXT("8"));
         // Cas : ÉCHEC (Pas de bière) -> On joue la ligne de fallback
         if (Segment.FailureLines.Num() > 0)
         {
