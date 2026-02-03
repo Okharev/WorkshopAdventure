@@ -13,23 +13,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="171cbcf2-dd4e-468e-81ac-e14e0a6237d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Cocktail/WBP_BartendingScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Cocktail/WBP_BartendingScreen.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Cocktail/WBP_Glass.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Cocktail/WBP_Glass.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Dialogue/BP_Dialogue_Event_RemoveItem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Dialogue/BP_Dialogue_Event_RemoveItem.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Dialogue/DA_Dialogue_OldMan.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Dialogue/DA_Dialogue_OldMan.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/Dialogue/WBP_Dialogue.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Dialogue/WBP_Dialogue.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Systems/Dialogue/BP_NPC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Systems/Dialogue/BP_NPC.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/BP_Inventory.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/BP_Inventory.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/BP_Item.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/BP_Item.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/DT_Items.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/DT_Items.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/S_Item.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/S_Item.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_JuTechWork/8/RX/4XV7LWUOI9TRRGC0Y6V4KN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_JuTechWork/8/RX/4XV7LWUOI9TRRGC0Y6V4KN.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_JuTechWork/B/YW/GIR1ZFP3O7IUR5BPPES6VU.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_JuTechWork/B/YW/GIR1ZFP3O7IUR5BPPES6VU.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_JuTechWork/D/JP/B953TB1DGCZ27XMTI2P7JZ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_JuTechWork/D/JP/B953TB1DGCZ27XMTI2P7JZ.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_JuTechWork/E/2C/MUSWPT3OQ2FQKFZHN9A5QF.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_JuTechWork/E/2C/MUSWPT3OQ2FQKFZHN9A5QF.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueAsset.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueAsset.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WorkshopAdventure.sln" beforeDir="false" afterPath="$PROJECT_DIR$/WorkshopAdventure.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkshopAdventure.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/WorkshopAdventure.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,19 +51,17 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Okharev/WorkshopAdventure.git&quot;,
-    &quot;accountId&quot;: &quot;83739ace-c34f-457d-b208-1c94ee4f883c&quot;
+    &quot;accountId&quot;: &quot;09fc8d12-fb13-46ba-b62d-1f1087c4dda1&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Editor/ZenEditor/Private/ZenDashboardLauncher.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Programs/AutomationTool/BuildGraph/Tasks/CreateCloudArtifactTask.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.7/Engine/Source/Runtime/Analytics/AnalyticsET/Private/AnalyticsPerfTracker.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/WorkshopAdventure/Cocktail/CocktailGlassWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/WorkshopAdventure/Cocktail/CocktailGlassWidget.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueAsset.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/WorkshopAdventure/Dialogue/DialogueCondition.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Unreal/UE_5.7/Engine/Source/Runtime/UMG/Public/Components/TextBlock.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -69,6 +75,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;C/C++ Project.WorkshopAdventure.executor&quot;: &quot;Debug&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -84,13 +91,6 @@
   }
 }</component>
   <component name="RunManager" selected="C/C++ Project.WorkshopAdventure">
-    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile">
-        <settings />
-      </deployment>
-      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
-      <method v="2" />
-    </configuration>
     <configuration name="UE5" type="CppProject" factoryName="C++ Project">
       <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj" />
       <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj" />
@@ -200,6 +200,13 @@
       <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -252,6 +259,9 @@
       <workItem from="1770017941323" duration="2798000" />
       <workItem from="1770036427495" duration="3166000" />
       <workItem from="1770041087564" duration="1340000" />
+      <workItem from="1770062357778" duration="69000" />
+      <workItem from="1770066314324" duration="1785000" />
+      <workItem from="1770068647177" duration="1430000" />
     </task>
     <servers />
   </component>
