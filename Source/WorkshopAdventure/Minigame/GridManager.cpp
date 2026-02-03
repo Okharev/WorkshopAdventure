@@ -152,6 +152,11 @@ void AGridManager::HandlePostMove()
     // Check Win
     if (CheckWinCondition())
     {
+        if (OnGameWon.IsBound())
+        {
+            OnGameWon.Broadcast();
+        }
+        
         // Add a small delay or UI message before exiting
         // For now, let's just exit
         ExitMiniGame();
