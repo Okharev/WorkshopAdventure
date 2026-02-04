@@ -14,13 +14,8 @@
   <component name="ChangeListManager">
     <list default="true" id="171cbcf2-dd4e-468e-81ac-e14e0a6237d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Journal/BPA_JournalSystem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/BPA_JournalSystem.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/MiniGame/BP_GridManager.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/MiniGame/BP_GridManager.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/I8/W7GPATYEBV2F4RNKSPWJBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/I8/W7GPATYEBV2F4RNKSPWJBP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkshopAdventure.sln" beforeDir="false" afterPath="$PROJECT_DIR$/WorkshopAdventure.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkshopAdventure.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/WorkshopAdventure.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +254,7 @@
       <workItem from="1770157777035" duration="101000" />
       <workItem from="1770157946298" duration="30000" />
       <workItem from="1770158032854" duration="238000" />
-      <workItem from="1770190175091" duration="2518000" />
+      <workItem from="1770190175091" duration="3164000" />
     </task>
     <servers />
   </component>
