@@ -28,6 +28,10 @@ AGridManager::AGridManager()
     bIsGameActive = false;
 }
 
+void AGridManager::OnGameWon_Implementation()
+{
+}
+
 
 void AGridManager::EnterMiniGame()
 {
@@ -93,7 +97,9 @@ void AGridManager::EnterMiniGame()
         
         PC->SetInputMode(InputMode);
 
-        // 3. Switch Camera
+        PreMinigameViewTarget = PC->GetViewTarget();
+
+        // Now switch to the Minigame camera
         PC->SetViewTargetWithBlend(this, 1.0f);
     }
 }
@@ -135,9 +141,16 @@ void AGridManager::ExitMiniGame()
             PC->SetViewTargetWithBlend(PC->GetPawn(), 1.0f);
         }
         
+        AActor* ViewTargetToRestore = (PreMinigameViewTarget != nullptr) ? PreMinigameViewTarget : PC->GetPawn();
+
+        if (ViewTargetToRestore)
+        {
+            PC->SetViewTargetWithBlend(ViewTargetToRestore, 1.0f);
+        }
+        
         // 4. Clean UI
         if (GameUIInstance)
-        {
+        {   
             GameUIInstance->RemoveFromParent();
             GameUIInstance = nullptr;
         }
@@ -152,6 +165,10 @@ void AGridManager::HandlePostMove()
     // Check Win
     if (CheckWinCondition())
     {
+        UE_LOG(LogTemp, Warning, TEXT("yey, broadcast win"));
+        
+        OnGameWon();
+        
         // Add a small delay or UI message before exiting
         // For now, let's just exit
         ExitMiniGame();

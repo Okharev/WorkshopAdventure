@@ -17,7 +17,14 @@ class WORKSHOPADVENTURE_API AGridManager : public AActor
 
 public:
     AGridManager();
-
+    
+    UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
+    void OnGameWon();
+    void OnGameWon_Implementation();
+    
+    UPROPERTY()
+    AActor* PreMinigameViewTarget;
+    
 protected:
     UPROPERTY(BlueprintReadOnly, Category = "Game State")
     bool bKnightUsed = false;
