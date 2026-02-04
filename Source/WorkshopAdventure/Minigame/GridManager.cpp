@@ -28,6 +28,10 @@ AGridManager::AGridManager()
     bIsGameActive = false;
 }
 
+void AGridManager::OnGameWon_Implementation()
+{
+}
+
 
 void AGridManager::EnterMiniGame()
 {
@@ -137,7 +141,7 @@ void AGridManager::ExitMiniGame()
         
         // 4. Clean UI
         if (GameUIInstance)
-        {
+        {   
             GameUIInstance->RemoveFromParent();
             GameUIInstance = nullptr;
         }
@@ -152,10 +156,9 @@ void AGridManager::HandlePostMove()
     // Check Win
     if (CheckWinCondition())
     {
-        if (OnGameWon.IsBound())
-        {
-            OnGameWon.Broadcast();
-        }
+        UE_LOG(LogTemp, Warning, TEXT("yey, broadcast win"));
+        
+        OnGameWon();
         
         // Add a small delay or UI message before exiting
         // For now, let's just exit
