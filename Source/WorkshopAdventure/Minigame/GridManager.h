@@ -22,6 +22,8 @@ public:
     void OnGameWon();
     void OnGameWon_Implementation();
     
+    UPROPERTY()
+    AActor* PreMinigameViewTarget;
     
 protected:
     UPROPERTY(BlueprintReadOnly, Category = "Game State")

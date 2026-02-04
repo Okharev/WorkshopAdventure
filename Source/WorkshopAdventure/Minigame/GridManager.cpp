@@ -97,7 +97,9 @@ void AGridManager::EnterMiniGame()
         
         PC->SetInputMode(InputMode);
 
-        // 3. Switch Camera
+        PreMinigameViewTarget = PC->GetViewTarget();
+
+        // Now switch to the Minigame camera
         PC->SetViewTargetWithBlend(this, 1.0f);
     }
 }
@@ -137,6 +139,13 @@ void AGridManager::ExitMiniGame()
         if (PC->GetPawn())
         {
             PC->SetViewTargetWithBlend(PC->GetPawn(), 1.0f);
+        }
+        
+        AActor* ViewTargetToRestore = (PreMinigameViewTarget != nullptr) ? PreMinigameViewTarget : PC->GetPawn();
+
+        if (ViewTargetToRestore)
+        {
+            PC->SetViewTargetWithBlend(ViewTargetToRestore, 1.0f);
         }
         
         // 4. Clean UI
