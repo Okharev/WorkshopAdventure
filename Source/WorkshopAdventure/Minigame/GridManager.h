@@ -10,8 +10,6 @@
 #include "InputMappingContext.h"
 #include "GridManager.generated.h"
 
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnMiniGameWin);
-
 UCLASS()
 class WORKSHOPADVENTURE_API AGridManager : public AActor
 {
@@ -20,9 +18,11 @@ class WORKSHOPADVENTURE_API AGridManager : public AActor
 public:
     AGridManager();
     
-    UPROPERTY(BlueprintAssignable, Category = "Events")
-    FOnMiniGameWin OnGameWon;
-
+    UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
+    void OnGameWon();
+    void OnGameWon_Implementation();
+    
+    
 protected:
     UPROPERTY(BlueprintReadOnly, Category = "Game State")
     bool bKnightUsed = false;
