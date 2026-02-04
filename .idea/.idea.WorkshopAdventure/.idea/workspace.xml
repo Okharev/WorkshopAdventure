@@ -13,9 +13,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="171cbcf2-dd4e-468e-81ac-e14e0a6237d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Dialogue/WBP_Dialogue.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Dialogue/WBP_Dialogue.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Journal/W_JournalPage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/W_JournalPage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Journal/W_JournalTextRow.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/W_JournalTextRow.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/9/XE/KM2OUP99GF8VM32UIDLFEP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/9/XE/KM2OUP99GF8VM32UIDLFEP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/L6/EH3P4E9UZV4NS7B1Y3ULF8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/L6/EH3P4E9UZV4NS7B1Y3ULF8.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/AP/HPCZDRQBMXLMLDL22LBOQG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/AP/HPCZDRQBMXLMLDL22LBOQG.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/J5/OA6NHC1CCWW4LJXL3IWFNH.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/J5/OA6NHC1CCWW4LJXL3IWFNH.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/D/ZH/IAP53RIPHDS9YPVM5GHXGG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/D/ZH/IAP53RIPHDS9YPVM5GHXGG.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,6 +261,7 @@
       <workItem from="1770157946298" duration="30000" />
       <workItem from="1770158032854" duration="238000" />
       <workItem from="1770190175091" duration="3164000" />
+      <workItem from="1770195985297" duration="656000" />
     </task>
     <servers />
   </component>
