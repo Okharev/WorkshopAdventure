@@ -13,15 +13,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="171cbcf2-dd4e-468e-81ac-e14e0a6237d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/DT_Items.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/DT_Items.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/BP_Item.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/BP_Item.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Export_Steven/Femme_Fatal/Femme_Fatal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Export_Steven/Femme_Fatal/Femme_Fatal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Export_Steven/Fetarde/Fetard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Export_Steven/Fetarde/Fetard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Export_Steven/Mafia/Mafieu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Export_Steven/Mafia/Mafieu.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Systems/Dialogue/BP_NPC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Systems/Dialogue/BP_NPC.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/2/UY/R2D1ZWHLOEX84OGXC9FYKN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/2/UY/R2D1ZWHLOEX84OGXC9FYKN.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/DX/F67U2P1GNW1SCY8QFNRG6C.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/DX/F67U2P1GNW1SCY8QFNRG6C.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/6/FL/35HH3R9L796QXH78RDUTHF.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/6/FL/35HH3R9L796QXH78RDUTHF.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/H9/ZC3LF7QF5DN6U2XVYCW84Q.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/H9/ZC3LF7QF5DN6U2XVYCW84Q.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/TC/ZZQHB3HRPSDIYP0DWM1TKE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/TC/ZZQHB3HRPSDIYP0DWM1TKE.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/WBP_StopInspection.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WBP_StopInspection.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/0/W1/CLEOOS4S89CNR0DLECWMDC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/0/W1/CLEOOS4S89CNR0DLECWMDC.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/69/AQZVUHSP6CSA74N65CIF51.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/69/AQZVUHSP6CSA74N65CIF51.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/R3/0VUQONT9WWFNYFEYZ6EY1W.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/R3/0VUQONT9WWFNYFEYZ6EY1W.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/7/PQ/9VFNDYIRHA75X4VLW92RWN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/7/PQ/9VFNDYIRHA75X4VLW92RWN.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/9/XE/KM2OUP99GF8VM32UIDLFEP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/9/XE/KM2OUP99GF8VM32UIDLFEP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/L6/EH3P4E9UZV4NS7B1Y3ULF8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/L6/EH3P4E9UZV4NS7B1Y3ULF8.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/AP/HPCZDRQBMXLMLDL22LBOQG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/AP/HPCZDRQBMXLMLDL22LBOQG.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/J5/OA6NHC1CCWW4LJXL3IWFNH.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/J5/OA6NHC1CCWW4LJXL3IWFNH.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/D/7O/EYCZUEOZGHW6E06PHRX349.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/D/7O/EYCZUEOZGHW6E06PHRX349.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,7 +272,7 @@
       <workItem from="1770158032854" duration="238000" />
       <workItem from="1770190175091" duration="3164000" />
       <workItem from="1770195985297" duration="656000" />
-      <workItem from="1770282337751" duration="319000" />
+      <workItem from="1770282337751" duration="1322000" />
     </task>
     <servers />
   </component>
