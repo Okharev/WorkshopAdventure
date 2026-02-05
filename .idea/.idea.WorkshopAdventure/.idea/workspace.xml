@@ -13,15 +13,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="171cbcf2-dd4e-468e-81ac-e14e0a6237d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Dialogue/WBP_Dialogue.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Dialogue/WBP_Dialogue.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Journal/W_JournalPage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/W_JournalPage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Journal/W_JournalTextRow.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Journal/W_JournalTextRow.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/DT_Items.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/DT_Items.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Systems/Dialogue/BP_NPC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Systems/Dialogue/BP_NPC.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/9/XE/KM2OUP99GF8VM32UIDLFEP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/9/XE/KM2OUP99GF8VM32UIDLFEP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/L6/EH3P4E9UZV4NS7B1Y3ULF8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/L6/EH3P4E9UZV4NS7B1Y3ULF8.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/AP/HPCZDRQBMXLMLDL22LBOQG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/AP/HPCZDRQBMXLMLDL22LBOQG.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/J5/OA6NHC1CCWW4LJXL3IWFNH.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/J5/OA6NHC1CCWW4LJXL3IWFNH.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/D/ZH/IAP53RIPHDS9YPVM5GHXGG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/D/ZH/IAP53RIPHDS9YPVM5GHXGG.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/2/UY/R2D1ZWHLOEX84OGXC9FYKN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/2/UY/R2D1ZWHLOEX84OGXC9FYKN.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/DX/F67U2P1GNW1SCY8QFNRG6C.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/DX/F67U2P1GNW1SCY8QFNRG6C.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/6/FL/35HH3R9L796QXH78RDUTHF.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/6/FL/35HH3R9L796QXH78RDUTHF.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/H9/ZC3LF7QF5DN6U2XVYCW84Q.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/H9/ZC3LF7QF5DN6U2XVYCW84Q.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/TC/ZZQHB3HRPSDIYP0DWM1TKE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/TC/ZZQHB3HRPSDIYP0DWM1TKE.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,24 +66,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;C/C++ Project.WorkshopAdventure.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;rendugold&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "C/C++ Project.WorkshopAdventure.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C/C++ Project.WorkshopAdventure">
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
       <deployment type="dockerfile">
@@ -262,6 +262,7 @@
       <workItem from="1770158032854" duration="238000" />
       <workItem from="1770190175091" duration="3164000" />
       <workItem from="1770195985297" duration="656000" />
+      <workItem from="1770282337751" duration="319000" />
     </task>
     <servers />
   </component>
