@@ -14,6 +14,28 @@
   <component name="ChangeListManager">
     <list default="true" id="171cbcf2-dd4e-468e-81ac-e14e0a6237d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WorkshopAdventure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Femme_Fatal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Femme_Fatal_Anim.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Femme_Fatal_PhysicsAsset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Femme_Fatal_Skeleton.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Fetard.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Fetard_Anim.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Fetard_PhysicsAsset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Fetard_Skeleton.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/M_Détail.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/M_Femme_Fatal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/M_Fetarde.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/M_Silouhette.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/M_Vieux.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/M_female_zbrush.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Mafieu.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Mafieu_Anim.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Mafieu_PhysicsAsset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Mafieu_Skeleton.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Vielle_Homme.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Vielle_Homme_Anim.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Vielle_Homme_PhysicsAsset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Anim/Vielle_Homme_Skeleton.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/BP_Item.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/InventorySystem/BP_Item.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Export_Steven/Femme_Fatal/Femme_Fatal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Export_Steven/Femme_Fatal/Femme_Fatal.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Export_Steven/Fetarde/Fetard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Export_Steven/Fetarde/Fetard.uasset" afterDir="false" />
@@ -22,14 +44,19 @@
       <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownController.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/UI/WBP_StopInspection.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WBP_StopInspection.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/0/M6/MGY0XZK7DYU2J87XG2M80T.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/0/M6/MGY0XZK7DYU2J87XG2M80T.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/0/W1/CLEOOS4S89CNR0DLECWMDC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/0/W1/CLEOOS4S89CNR0DLECWMDC.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/69/AQZVUHSP6CSA74N65CIF51.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/69/AQZVUHSP6CSA74N65CIF51.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/R3/0VUQONT9WWFNYFEYZ6EY1W.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/3/R3/0VUQONT9WWFNYFEYZ6EY1W.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/6/52/OBIPHCZPT9JG77A2IMVBRH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/7/E4/B1RASF6MIUNRGCGEKVD5TD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/7/E4/B1RASF6MIUNRGCGEKVD5TD.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/7/PQ/9VFNDYIRHA75X4VLW92RWN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/7/PQ/9VFNDYIRHA75X4VLW92RWN.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/9/XE/KM2OUP99GF8VM32UIDLFEP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/9/XE/KM2OUP99GF8VM32UIDLFEP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/61/JWMCNC2T6H1RKWHYM7P37R.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/61/JWMCNC2T6H1RKWHYM7P37R.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/L6/EH3P4E9UZV4NS7B1Y3ULF8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/A/L6/EH3P4E9UZV4NS7B1Y3ULF8.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/AP/HPCZDRQBMXLMLDL22LBOQG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/AP/HPCZDRQBMXLMLDL22LBOQG.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/J5/OA6NHC1CCWW4LJXL3IWFNH.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/J5/OA6NHC1CCWW4LJXL3IWFNH.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/TC/ZZQHB3HRPSDIYP0DWM1TKE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/C/TC/ZZQHB3HRPSDIYP0DWM1TKE.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/D/7O/EYCZUEOZGHW6E06PHRX349.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson_Cam_Ju/D/7O/EYCZUEOZGHW6E06PHRX349.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WorkshopAdventure/Minigame/GridManager.cpp" afterDir="false" />
     </list>
@@ -76,24 +103,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "C/C++ Project.WorkshopAdventure.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;C/C++ Project.WorkshopAdventure.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ Project.WorkshopAdventure">
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
       <deployment type="dockerfile">
@@ -272,7 +299,7 @@
       <workItem from="1770158032854" duration="238000" />
       <workItem from="1770190175091" duration="3164000" />
       <workItem from="1770195985297" duration="656000" />
-      <workItem from="1770282337751" duration="1322000" />
+      <workItem from="1770282337751" duration="319000" />
     </task>
     <servers />
   </component>

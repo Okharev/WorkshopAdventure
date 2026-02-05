@@ -132,8 +132,8 @@ void AGridManager::ExitMiniGame()
         }
 
         // 2. Revert Input Mode
-        PC->SetShowMouseCursor(true);
-        PC->SetInputMode(FInputModeGameAndUI());
+        PC->SetShowMouseCursor(false); // Or true if your game usually has a cursor
+        PC->SetInputMode(FInputModeGameOnly());
 
         // 3. Restore Camera
         if (PC->GetPawn())
